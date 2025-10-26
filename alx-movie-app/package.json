@@ -1,0 +1,32 @@
+{
+  "name": "alx-movie-app",
+  "version": "1.0.0",
+  "description": "A Progressive Web Application (PWA) movie app built with Next.js for the ProWeb Pulse project",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@ducanh2912/next-pwa": "^10.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "eslint": "^8.54.0",
+    "eslint-config-next": "^14.0.0"
+  },
+  "keywords": [
+    "pwa",
+    "progressive-web-app",
+    "nextjs",
+    "react",
+    "movie-app"
+  ],
+  "author": "ALX Software Engineering Program",
+  "license": "MIT"
+}
